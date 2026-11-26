@@ -20,16 +20,14 @@ Este proyecto corresponde al Componente Práctico 2 (Unidades 3 y 4) y aborda el
 
 ---
 
----
-
 ## 👥 Equipo de Desarrollo (Grupo D)
 
 | Integrante | Rol en el Repositorio |
 | :--- | :--- |
 | 👨‍💻 **Josue Chiquito Yanez** | Colaborador / Análisis y Pruebas |
-| 👨‍💻 **Eri Pinto** | Colaborador / Análisis y Pruebas |
+| 👨‍💻 **Erick Pinto** | Colaborador / Análisis y Pruebas |
 | 👨‍💻 **Jonathan Gerardo** | Colaborador / Análisis y Pruebas |
-
+| 👨‍💻 **** | Colaborador / Análisis y Pruebas |
 ---
 
 ## 📋 Análisis de Requisitos y Casos de Prueba
