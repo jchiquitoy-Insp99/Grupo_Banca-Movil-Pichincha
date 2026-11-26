@@ -46,4 +46,6 @@ A continuación, se detallan los requisitos funcionales (**RF**) y no funcionale
 > Los requisitos **RF-01** y **RF-02** cubren la operatividad esencial de la banca digital y su motor de ofertas crediticias; **RF-03** y **RNF-01** atienden directamente los riesgos de opacidad algorítmica y acumulación indiscriminada de datos; y **RNF-02** resguarda la integridad y confidencialidad de las transacciones financieras.
 
 ---
+https://aulagradoa.unemi.edu.ec/mod/assign/view.php?id=95935
+
 
