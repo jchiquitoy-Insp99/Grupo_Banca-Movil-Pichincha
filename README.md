@@ -61,6 +61,3 @@ A continuación, se detallan los requisitos funcionales (**RF**) y no funcionale
 
 ---
 
-
-
-👉 [**Descargar / Ver CP2_Requerimientos_y_Pruebas.pdf**](./CP2_Requerimientos_y_Pruebas.pdf)
