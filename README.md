@@ -20,18 +20,6 @@ Este proyecto corresponde al Componente Práctico 2 (Unidades 3 y 4) y aborda el
 
 ---
 
-## 🎯 Descripción del Problema y Objetivo del Sistema
-
-### ⚠️ 2.1 Descripción del problema
-
-La institución financiera ficticia **Banco Pichincha** desarrolla una plataforma de banca en línea y aplicación móvil orientada a facilitar operaciones financieras cotidianas, tales como la consulta de saldos, transferencias interbancarias, pago de servicios y revisión del historial de movimientos. Como evolución del producto, la entidad incorpora un sistema automatizado de evaluación que procesa el historial transaccional, la frecuencia de depósitos, los pagos efectuados y otros patrones de comportamiento digital para identificar qué clientes pueden recibir ofertas de crédito.
-
-Durante la fase de pruebas, el equipo técnico identifica una problemática crítica: el sistema otorga automáticamente mejores condiciones crediticias a determinados usuarios y descarta a otros sin ofrecer una explicación clara ni verificable de los criterios aplicados. A esto se suma la directriz gerencial de mantener el funcionamiento interno bajo reserva, desplegar la funcionalidad sin transparentar los factores de decisión al cliente y conservar de manera indefinida la totalidad de los datos disponibles para futuros modelos analíticos. Esta situación genera riesgos relevantes en materia de transparencia, posibles sesgos algorítmicos, vulneración de la privacidad financiera y pérdida de confianza por parte de los usuarios.
-
-### 🚀 2.2 Objetivo del sistema
-
-> Proveer una plataforma digital de banca en línea y aplicación móvil segura, confiable y centrada en el usuario que garantice la ejecución precisa de operaciones financieras básicas, integrando un módulo automatizado de ofertas de crédito bajo principios de explicabilidad, trazabilidad y minimización de datos personales. De este modo, el sistema equilibra la innovación analítica de la entidad con el derecho del cliente a comprender las decisiones automatizadas que afectan su información y acceso financiero.
-
 ---
 
 ## 👥 Equipo de Desarrollo (Grupo D)
