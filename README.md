@@ -61,18 +61,6 @@ A continuación, se detallan los requisitos funcionales (**RF**) y no funcionale
 
 ---
 
-## 📂 Estructura del Repositorio
 
-```text
-📦 grupoD_banco-pichincha
- ┣ 📜 README.md                         # Documentación principal y resumen del proyecto
- ┗ 📄 CP2_Requerimientos_y_Pruebas.pdf  # Informe formal completo y evidencia de GitHub
-```
-
----
-
-## 📄 Documentación Formal
-
-Para revisar el informe completo del Componente Práctico 2 —incluyendo datos generales, planteamiento detallado del problema, objetivos y la evidencia de colaboradores configurados en GitHub—, accede al documento oficial:
 
 👉 [**Descargar / Ver CP2_Requerimientos_y_Pruebas.pdf**](./CP2_Requerimientos_y_Pruebas.pdf)
